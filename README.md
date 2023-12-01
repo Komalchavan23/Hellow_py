@@ -1,2 +1,3 @@
-# Hellow_py
-This is hellow word program written in python
+python program to print hellow word
+print ("Hellow Word")
+print("This is basic python program")
